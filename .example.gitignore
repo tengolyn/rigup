@@ -1,0 +1,6 @@
+# Agent environment files. Copy these lines into a project's .gitignore to keep the setup out of its repo.
+AGENTS.md
+CLAUDE.md
+.agents/
+.claude/
+local-docs/
